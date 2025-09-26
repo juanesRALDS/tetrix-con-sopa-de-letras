@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ColorLegend.tsx","./src/components/Controls.tsx","./src/components/GameBoard.tsx","./src/components/Sidebar.tsx","./src/game/config.ts","./src/game/random.ts","./src/game/scoring.ts","./src/game/types.ts","./src/hooks/useGameLogic.ts","./src/hooks/useInterval.ts"],"version":"5.9.2"}
